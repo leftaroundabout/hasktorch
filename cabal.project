@@ -5,8 +5,8 @@ source-repository-package
 
 source-repository-package
     type: git
-    location: git://github.com/RyanGlScott/blaze-markup.git
-    tag: 66b7b3106eb35f57939357e7fb1288f503d6f833
+    location: git://github.com/jaspervdj/blaze-markup.git
+    tag: de6a8f2869fe1ae3b7aa86e225da614c3d430228
 
 source-repository-package
     type: git
